@@ -1,4 +1,4 @@
-- 👋 Hi, my main GitHub account is now @nunofachada
+- 👋 Hi, my main GitHub account is now [@nunofachada](https://github.com/nunofachada)
 - 🌱 On Twitter it's also [@nunofachada](https://twitter.com/nunofachada)
 - ✨ This account will only be for personal/non-professional/non-research projects
 - 📫 Cheers!
